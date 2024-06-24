@@ -1,6 +1,6 @@
 # Turing Tech Countries
 
-This project is deployed at the following [URL](https://turing-countries.vercel.app).
+This project is deployed at the following [URL](https://turing-countries-pink.vercel.app/).
 
 ## Table of Contents
 
